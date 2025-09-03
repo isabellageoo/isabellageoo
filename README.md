@@ -21,19 +21,19 @@
 
 ###
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, design e inovação.<br><br>- 📚 Estou aprendendo JavaScript, TypeScript, Java, Python e PHP.<br>- ⚡ No tempo livre gosto de explorar novas ferramentas de TI e cultura digital.</p>
+<p align="left">I am a Systems Analysis and Development student, passionate about technology, design and innovation.<br><br>- 📚 I am learning JavaScript, TypeScript, Java, Python e PHP.<br>- ⚡ In my free time I enjoy exploring new IT tools and digital culture.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Languages ​​and Tools</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">🔥 Minhas Estatísticas :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
