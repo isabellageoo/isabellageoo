@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am a Systems Analysis and Development student, passionate about technology, design and innovation.<br><br>- 📚 I am learning JavaScript, TypeScript, Java, Python e PHP.<br>- ⚡ In my free time I enjoy exploring new IT tools and digital culture.</p>
+<p align="left">I am a Systems Analysis and Development student, passionate about technology, design and innovation.<br><br>- 📚 I am learning JavaScript, TypeScript, Java, Python and PHP.<br>- ⚡ In my free time I enjoy exploring new IT tools and digital culture.</p>
 
 ###
 
